@@ -1,5 +1,5 @@
 # DNLD3_Tv_Script_Generation
-**Jianguo Zhang, April 15**
+**Jianguo Zhang, April 15, 2017**
 
 In this project, we generate our own [Simpsons](https://en.wikipedia.org/wiki/The_Simpsons) TV scripts using RNNs. We will be using part of the [Simpsons dataset](https://www.kaggle.com/wcukierski/the-simpsons-by-the-data) of scripts from 27 seasons.
 The Neural Network we will build will generate a new TV script for a scene at [Moe's Tavern](https://simpsonswiki.com/wiki/Moe's_Tavern).
