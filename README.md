@@ -6,6 +6,8 @@ The Neural Network we will build will generate a new TV script for a scene at [M
 
  ![image](https://github.com/JianguoZhang1994/DNLD3_Tv_Script_Generation/blob/master/Simpsons.png)
  
+ Please run the program using `python 3.6`, `tensorflow 1.0.0` and `GPU device`.
+ 
  ### This is one Tv Script we generated:
  
 moe_szyslak:(into phone) gotcha ya down for forty bucks. good luck your eminence.
